@@ -4,3 +4,4 @@ amarillo
 azul
 rojo
 lila
+gris
